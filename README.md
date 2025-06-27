@@ -116,7 +116,7 @@ This project implements several advanced Next.js and React patterns:
 
 ## 🚀 Live Demo
 
-🔗 [Personal Finance App](https://personal-finance-xi-umber.vercel.app/)
+🔗 [Personal Finance App](https://personal-finance-xi-umber.vercel.app/auth)
 
 Test credentials:
 
