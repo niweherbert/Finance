@@ -205,7 +205,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 ## 👨‍💻 Author
-- 🏆 **GitHub** - [@juliengDev](https://github.com/niweherbert)
+- 🏆 **GitHub** - [@Niwe Herbert](https://github.com/niweherbert)
 ---
 
 🎯 _Feel free to reach out if you have any questions or suggestions!_ 🚀
